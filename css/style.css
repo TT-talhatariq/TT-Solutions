@@ -54,7 +54,7 @@ header a{
 
  /* Main Heading */
  #showcase{
-     background-image: url('/images/laptop.jpg');
+     background-image: url('../images/laptop.jpg');
      min-height: 400px;
      background-position: center;
      background-size: cover;
