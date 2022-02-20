@@ -160,7 +160,7 @@ footer{
     text-align: start;
     width: 100%;
 }
-#contact input{
+#contact input, textarea{
     width: 90%;
     margin-bottom: 20px;
     padding: 2px;
@@ -234,6 +234,11 @@ footer{
 }
 #contact input{
     width: 90%;
+}
+
+#contact button{
+width: 50%;
+margin-left: 65px;
 }
 }
 
